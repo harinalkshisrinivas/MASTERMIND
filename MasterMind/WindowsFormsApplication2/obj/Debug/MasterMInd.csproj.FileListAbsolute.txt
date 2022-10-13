@@ -1,0 +1,9 @@
+E:\Visual Studio\MasterMind\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\Visual Studio\MasterMind\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\Visual Studio\MasterMind\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\Visual Studio\MasterMind\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\Visual Studio\MasterMind\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\Visual Studio\MasterMind\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\Visual Studio\MasterMind\WindowsFormsApplication2\obj\Debug\MasterMInd.csproj.GenerateResource.Cache
+E:\Visual Studio\MasterMind\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.codemaker.resources
+E:\Visual Studio\MasterMind\WindowsFormsApplication2\obj\Debug\MasterMInd.csprojResolveAssemblyReference.cache

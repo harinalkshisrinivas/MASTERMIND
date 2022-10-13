@@ -1,0 +1,10 @@
+E:\VISUAL STUDIO\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\VISUAL STUDIO\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\VISUAL STUDIO\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\VISUAL STUDIO\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\VISUAL STUDIO\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\VISUAL STUDIO\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+E:\VISUAL STUDIO\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\VISUAL STUDIO\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\Visual Studio\MasterMind\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\Visual Studio\MasterMind\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
